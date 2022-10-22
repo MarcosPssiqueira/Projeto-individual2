@@ -41,6 +41,7 @@ body {
 #msg1 {
     margin-top: 10px;
     margin-bottom: 30px;
+    background-color: aliceblue
 }
 
 .radioType {
@@ -51,6 +52,7 @@ body {
 
 #msg2 {
     margin-top: 30px;
+    background-color: aliceblue;
 }
 
 label {
@@ -62,6 +64,7 @@ label {
 .seletorCesar {
     background-color: aliceblue
 }
+
 
 
 @media screen and (max-width: 480px) {
